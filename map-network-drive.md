@@ -74,6 +74,10 @@ Confirm the correct shared folder path from the network.
 - Confirm VPN connection if remote
 - Test connectivity with ping
 
+**Drive Disconnects After Reboot**
+- Ensure **Reconnect at sign-in** is checked
+- Verify network is available at login
+
 ----------
 
 ## Escalation Path
