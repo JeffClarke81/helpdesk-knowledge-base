@@ -39,7 +39,7 @@ User cannot access the internet. web browser shows "No internet" or pages fail t
 **Expected Result:** Network reconnects.
 ----------
 ### 4. Renew IP Address
-1. Open ** Command Prompts** as Administrator
+1. Open **Command Prompts** as Administrator
 2. Run the following command: ipconfig /release, ipconfig/renew
 
  **Expected results:** New IP address assigned.
