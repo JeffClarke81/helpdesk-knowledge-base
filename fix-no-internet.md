@@ -26,7 +26,7 @@ User cannot access the internet. web browser shows "No internet" or pages fail t
 4. Select **Network Troubleshooter**
 6. Follow the prompts
 
-** Expected Result:** Windows detects and fixes common issues.
+**Expected Result:** Windows detects and fixes common issues.
 ----------
 ### 3. Restart Network Adapter
 1. Press **Windows + R**
@@ -36,13 +36,13 @@ User cannot access the internet. web browser shows "No internet" or pages fail t
 5. Wait 10 seconds
 6. Right-click again -> **Enable**
 
-** Expected Result:** Network reconnects.
+**Expected Result:** Network reconnects.
 ----------
 ### 4. Renew IP Address
 1. Open ** Command Prompts** as Administrator
 2. Run the following command: ipconfig /release, ipconfig/renew
 
- ** Expected results:** New IP address assigned.
+ **Expected results:** New IP address assigned.
 ----------
 ### 5. Flush DNS Cache
 In Command Prompt, run: ipconfig /flushdns
@@ -52,7 +52,7 @@ In Command Prompt, run: ipconfig /flushdns
 ### 6. Restart the Computer
 Reboot the system to ensure all network services reset.
 
-** Expected results:** Internet connectivity restored.
+**Expected results:** Internet connectivity restored.
 ----------
 ## Verification
 - Open a web browser
