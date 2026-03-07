@@ -19,7 +19,7 @@ User needs access to a shared network folder but cannot see it in File Explorer.
 - If remote, confirm VPN is connected
 - Try pinging the file server (if known)
 
-** Expected Results:** System is connected to the network.
+**Expected Results:** System is connected to the network.
 ----------
 
 ### 2. Obtain the Network Path
